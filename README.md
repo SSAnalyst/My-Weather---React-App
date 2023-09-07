@@ -2,7 +2,19 @@
 This is React webapp for weather forecasting made with API integration.
 API key is free to use after succesfull sign-up on 'openweathermap.org' service website.
 **Check out the intresting Screen Shots**
+.
+.
+.
 
+![Screenshot (79)](https://github.com/SSAnalyst/my-weather/assets/95772095/4ff92e88-de1c-49f5-a524-aeb6c95ee7a4)
+.
+.
+.
+
+![Screenshot (80)](https://github.com/SSAnalyst/my-weather/assets/95772095/2ff73110-cdb1-4836-8b0f-63934f5ae65c)
+.
+.
+.
 
 
 # Getting Started with Create React App
