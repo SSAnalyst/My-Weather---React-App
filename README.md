@@ -1,3 +1,10 @@
+              My-Weather
+This is React webapp for weather forecasting made with API integration.
+API key is free to use after succesfull sign-up on 'openweathermap.org' service website.
+**Check out the intresting Screen Shots**
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
